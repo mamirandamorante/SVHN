@@ -1,4 +1,4 @@
-# SVHN Image classifier for the SVHN dataset. 
+# Image classifier using the SVHN dataset. 
 
 The goal of this project is to develop an end-to-end workflow for building, training, validating, evaluating and saving a neural network that classifies a real-world image into one of ten classes. This is based on the paper from:
 
